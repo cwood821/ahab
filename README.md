@@ -1,7 +1,5 @@
 # Ahab 
 
-> Slay the complexity of the dreaded whale! Or, just feel free to forget all those docker commands.
-
 A commander to slay the complexity of the dreaded whale! In other words, a  shell script to wrap common docker commands in your Laravel project. 
 
 Its aim is to serve as a robust boilerplate for Docker-based project helper scripts. If ye seek something more robust, consider [Vessel](https://github.com/shipping-docker/vessel).
