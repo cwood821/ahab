@@ -1,0 +1,16 @@
+Ahab 0.5
+
+Commands 
+----------------------------------------
+- artisan: artisan 
+- clean: destroy unused docker images, containers (WARNING: may cause data loss!)
+- composer: composer
+- down: stop containers
+- fresh: re-do autoloading, migrations, and clear cache
+- logs: print logs from app container (uses less)
+- npm: npm
+- seed: seed both app and test databases
+- ssh: open a bash session in the application container
+- start: start all containers, run migrations
+- test: runs phpunit tests
+- watch: re-compile static assets when files change
