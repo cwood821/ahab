@@ -1,6 +1,6 @@
 # Ahab 
 
-| Slay the complexity of the dreaded whale! Or, just feel free to forget all those docker commands.
+> Slay the complexity of the dreaded whale! Or, just feel free to forget all those docker commands.
 
 A commander to slay the complexity of the dreaded whale! In other words, a  shell script to wrap common docker commands in your Laravel project. 
 
